@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/com/longIt/shoppingApp_manager/action/ManagerArticleController.java=UTF-8
+encoding//src/com/longIt/shoppingApp_manager/action/ManagerArticleTypeController.java=UTF-8
+encoding//src/com/longIt/shoppingApp_manager/action/ManagerOrderController.java=UTF-8
+encoding//src/com/longIt/shoppingApp_manager/action/ManagerUserController.java=UTF-8
+encoding//src/com/longIt/shoppingApp_manager/mapper/ManagerArticleMapper.java=UTF-8
+encoding//src/com/longIt/shoppingApp_manager/mapper/ManagerArticleTypeMapper.java=UTF-8
+encoding//src/com/longIt/shoppingApp_manager/mapper/ManagerOrderItemMapper.java=UTF-8
+encoding//src/com/longIt/shoppingApp_manager/mapper/ManagerOrderMapper.java=UTF-8
+encoding//src/com/longIt/shoppingApp_manager/mapper/ManagerUserMapper.java=UTF-8
+encoding//src/com/longIt/shoppingApp_manager/service/impl/ManagerArticleServicempl.java=UTF-8
+encoding//src/com/longIt/shoppingApp_manager/service/impl/ManagerArticleTypeServicempl.java=UTF-8
+encoding//src/com/longIt/shoppingApp_manager/service/impl/ManagerOrderServicempl.java=UTF-8
+encoding//src/com/longIt/shoppingApp_manager/service/impl/ManagerUserServicempl.java=UTF-8
+encoding/<project>=UTF-8

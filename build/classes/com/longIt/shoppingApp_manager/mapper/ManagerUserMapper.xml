@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+	PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+	"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.longIt.shoppingApp_manager.mapper.ManagerUserMapper">
+
+     <select id="userList" resultMap="userMapper">
+         select * from ec_user where name like #{name} or login_name like #{name}
+     </select>
+     
+     <resultMap type="com.longIt.shoppingApp.bean.User" id="userMapper">
+        <result column="login_name" property="loginName"/>
+     </resultMap>
+</mapper>
